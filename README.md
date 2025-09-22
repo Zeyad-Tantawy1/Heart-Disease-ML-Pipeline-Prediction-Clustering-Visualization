@@ -25,7 +25,7 @@ It demonstrates the **end-to-end ML workflow**: from raw data ingestion → prep
 
 ## 📂 Project Structure  
 ```
-Heart_Disease_Prediction/
+heart-disease-prediction/
 │── data/                  # Datasets (raw & preprocessed)
 │── models/                # Saved ML models and pipelines
 │── src/                   # Source code modules
@@ -77,8 +77,8 @@ Heart_Disease_Prediction/
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone <repo-link>
-   cd Sprints
+   git clone <https://github.com/Zeyad-Tantawy1/Heart-Disease-ML-Pipeline-Prediction-Clustering-Visualization.git>
+   cd heart-disease-prediction
    ```
 
 2. Install dependencies:  
@@ -111,4 +111,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zeyad-tan
 
 ---
 
-#machineLearning #DataScience #AI #HealthcareAI #Python #Sprints  
+#MachineLearning #DataScience #AI #HealthcareAI #Python #Sprints  
