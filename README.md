@@ -25,7 +25,7 @@ It demonstrates the **end-to-end ML workflow**: from raw data ingestion → prep
 
 ## 📂 Project Structure  
 ```
-Sprints/
+Heart_Disease_Prediction/
 │── data/                  # Datasets (raw & preprocessed)
 │── models/                # Saved ML models and pipelines
 │── src/                   # Source code modules
