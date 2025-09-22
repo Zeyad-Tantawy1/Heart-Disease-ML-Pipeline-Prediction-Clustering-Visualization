@@ -1,6 +1,6 @@
 This project provides an end-to-end machine learning pipeline to analyze and predict heart disease using the UCI Heart Disease dataset. It covers data preprocessing, feature selection, dimensionality reduction (PCA), supervised learning (Logistic Regression, Decision Tree, Random Forest, SVM), unsupervised clustering (K-Means, Hierarchical), model evaluation, hyperparameter tuning, and deployment via a Streamlit web application for real-time predictions.
 
-Features
+##Features
 
 Data Preprocessing & Cleaning: Handle missing values, encode categorical variables, scale numerical features.
 
@@ -18,7 +18,7 @@ Deployment: Streamlit UI for user input and live predictions, optional Ngrok dep
 
 Model Export: Save trained models in .pkl format for reuse.
 
-File Structure
+##File Structure
 Heart_Disease_Project/
 │── data/
 │   └── heart_disease.csv
@@ -41,36 +41,29 @@ Heart_Disease_Project/
 │── requirements.txt
 │── .gitignore
 
-Installation
+##Installation
 
 Clone the repository:
 
 git clone https://github.com/yourusername/Heart_Disease_Project.git
 
 
-Install dependencies:
+##Install dependencies:
 
 pip install -r requirements.txt
 
 
 Run Jupyter notebooks for exploration or training models.
 
-Usage
+##Usage
 
 Run Streamlit UI:
 
 streamlit run ui/app.py
 
 
-Optional: Use Ngrok to make the app publicly accessible.
-
-Input your health data in the UI to get heart disease risk prediction.
-
-Dataset
+##Dataset
 
 The project uses the UCI Heart Disease Dataset
 .
 
-License
-
-This project is licensed under the MIT License.
